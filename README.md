@@ -1,2 +1,6 @@
 # projecteIntermodular1
-Proyecto intermodular de primero de DAW
+Daw first intermodular project
+
+## Design
+Inside `./design` folder, you can find all logo design versions.
+
